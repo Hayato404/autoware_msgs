@@ -1,0 +1,11 @@
+{
+  "package_name": "autoware_msgs",
+  "non_idl_tuples": [
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/DTLane.msg",
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/WaypointState.msg",
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/LaneWaypointsArray.msg",
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/Waypoint.msg",
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/Lane.msg",
+    "/home/hiroselab/HDT-ros1-bridge/custom_msgs/custom_msgs_ros2:msg/LaneArray.msg"
+  ]
+}
