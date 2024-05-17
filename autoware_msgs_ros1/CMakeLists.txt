@@ -26,7 +26,6 @@ add_message_files(
     DTLane.msg
     Lane.msg
     LaneArray.msg
-    PseudoGridMap.msg
     Waypoint.msg
     WaypointState.msg
 )
