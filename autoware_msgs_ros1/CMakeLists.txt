@@ -15,7 +15,6 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   geometry_msgs
-  sensor_msgs
 )
 
 # Message file
@@ -34,8 +33,6 @@ generate_messages(
   DEPENDENCIES
     std_msgs
     geometry_msgs
-    sensor_msgs
-    std_msgs
 )
 
 catkin_package(
