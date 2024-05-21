@@ -38,8 +38,4 @@ generate_messages(
 catkin_package(
   CATKIN_DEPENDS
     message_runtime
-    geometry_msgs
-    message_runtime
-    sensor_msgs
-    std_msgs
 )
