@@ -1,0 +1,6 @@
+topics:
+  -
+    topic : /based/lane_waypoints_raw
+    type : autoware_msgs/msg/LaneArray
+    queue_size : 1
+
